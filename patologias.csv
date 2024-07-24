@@ -1,0 +1,101 @@
+﻿No,Departamento,raza,sexo,Rango_Edad,edad,Patologias
+1,ticuantepe ,español ,M,1 a 5,1.5,4
+2,ticuantepe ,español ,M,6 a 10,8,7
+3,ticuantepe ,español ,H,6 a 10,8,5
+4,ticuantepe ,español ,M,6 a 10,10,7
+5,ticuantepe ,español ,H,6 a 10,9,3
+6,ticuantepe ,español ,M,6 a 10,10,6
+7,ticuantepe ,español ,M,6 a 10,7,4
+8,ticuantepe ,español ,H,1 a 5,5,3
+9,ticuantepe ,español ,H,1 a 5,3,2
+10,ticuantepe ,español ,H,1 a 5,5,3
+11,ticuantepe ,español ,M,1 a 5,2,1
+12,ticuantepe ,español ,M,6 a 10,6,5
+13,ticuantepe ,español ,M,1 a 5,4,3
+14,ticuantepe ,español ,M,1 a 5,2,2
+15,ticuantepe ,español ,H,1 a 5,5,4
+16,ticuantepe ,español ,H,1 a 5,4,4
+17,ticuantepe ,español ,H,1 a 5,4,7
+18,ticuantepe ,español ,H,6 a 10,7,4
+19,ticuantepe ,español ,M,6 a 10,13,9
+20,ticuantepe,español ,M,1 a 5,5,5
+21,Nandaime,español ,H,6 a 10,6,2
+22,Nandaime,español ,H,6 a 10,9,4
+23,Nandaime,español ,M,1 a 5,3,1
+24,Nandaime,español ,M,6 a 10,14,8
+25,Nandaime,español ,H,1 a 5,3.5,1
+26,Nandaime,español ,M,1 a 5,5,1
+27,Nandaime,español ,M,1 a 5,2,1
+28,Nandaime,español ,M,6 a 10,7,4
+29,Nandaime,español ,H,1 a 5,1,1
+30,Nandaime,español ,H,1 a 5,1.5,2
+31,Nandaime,español ,M,6 a 10,20,6
+32,Nandaime,español ,M,6 a 10,7,6
+33,Nandaime,español ,M,1 a 5,5,4
+34,Nandaime,español ,M,6 a 10,10,5
+35,Nandaime,español ,M,1 a 5,4,1
+36,Nandaime,español ,H,6 a 10,8,3
+37,Nandaime,español ,H,1 a 5,5,3
+38,Nandaime,español ,M,6 a 10,11,4
+39,Nandaime,español ,M,1 a 5,1.5,2
+40,Nandaime,español ,M,1 a 5,2,3
+41,Nandaime,español ,M,6 a 10,7,10
+42,Nandaime,español ,M,6 a 10,6,7
+43,Nandaime,español ,M,6 a 10,7,6
+44,Nandaime,español ,M,1 a 5,5,9
+45,tipitapa,español ,M,6 a 10,10,4
+46,tipitapa,español ,M,1 a 5,3,6
+47,tipitapa,español ,M,1 a 5,3,4
+48,tipitapa,español ,M,6 a 10,11,9
+49,leon ,español ,H,6 a 10,6,5
+50,leon ,español ,H,1 a 5,3,3
+51,leon ,español ,H,1 a 5,5,4
+52,leon ,español ,H,6 a 10,7,7
+53,leon ,español ,H,1 a 5,4,3
+54,leon ,español ,H,1 a 5,4,1
+55,managua,español ,H,1 a 5,4,2
+56,managua,español ,H,1 a 5,4,3
+57,managua,español ,H,1 a 5,4,3
+58,tipitapa,iberos,H,6 a 10,6,3
+59,tipitapa,iberos,H,1 a 5,1,3
+60,tipitapa,iberos,H,1 a 5,4.5,6
+61,tipitapa,iberos,M,1 a 5,1.7,3
+62,tipitapa,iberos,M,6 a 10,7,5
+63,ticuantepe,iberos,M,6 a 10,9,8
+64,ticuantepe,iberos,H,6 a 10,10,7
+65,ticuantepe,iberos,M,6 a 10,16,10
+66,rivas,iberos,M,6 a 10,7,9
+67,rivas,iberos,H,6 a 10,9,4
+68,rivas,iberos,H,6 a 10,6,4
+69,rivas,iberos,H,6 a 10,7,3
+70,managua,iberos,H,1 a 5,5,4
+71,managua,iberos,M,6 a 10,17,10
+72,managua,iberos,H,6 a 10,11,4
+73,managua,iberos,M,6 a 10,8,5
+74,managua,iberos,M,1 a 5,3,3
+75,managua,iberos,H,1 a 5,3,1
+76,managua,iberos,M,6 a 10,13,4
+77,managua,iberos,H,6 a 10,19,9
+78,managua,iberos,H,6 a 10,15,7
+79,managua,iberos,H,1 a 5,2,1
+80,ticuantepe,pony,H,1 a 5,3,4
+81,ticuantepe,pony ,M,1 a 5,2,5
+82,Nandaime,pony,M,1 a 5,4,1
+83,managua,criollos,H,6 a 10,13,7
+84,managua,criollos,M,6 a 10,17,11
+85,managua,criollos,M,6 a 10,13,6
+86,managua,criollos,H,6 a 10,11,4
+87,rivas,criollos,H,1 a 5,5,4
+88,rivas,criollos,H,6 a 10,7,2
+89,rivas,criollos,H,6 a 10,9,6
+90,leon ,cuarto de millaa,H,1 a 5,3.5,3
+91,leon ,cuarto de millaa,M,1 a 5,5,7
+92,leon ,cuarto de millaa,M,1 a 5,4,1
+93,leon ,cuarto de millaa,M,6 a 10,9,7
+94,leon ,cuarto de millaa,M,1 a 5,4,3
+95,leon ,cuarto de millaa,H,6 a 10,6,5
+96,leon ,cuarto de millaa,M,6 a 10,6,7
+97,rivas,cuarto de millaa,M,6 a 10,8,3
+98,rivas,cuarto de millaa,M,1 a 5,4,2
+99,rivas,cuarto de millaa,H,6 a 10,11,8
+100,rivas,pura sangre ingles,M,6 a 10,17,10
